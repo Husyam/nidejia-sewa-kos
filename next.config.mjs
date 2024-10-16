@@ -3,7 +3,7 @@ const nextConfig = {
   images: {
     remotePatterns: [
       {
-        hostname: '${process.env.NEXT_PUBLIC_STORAGE_BASE_URL }/*'
+        hostname: `${process.env.NEXT_PUBLIC_STORAGE_BASE_URL }/*`,
       }
     ],
   },
