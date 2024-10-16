@@ -17,7 +17,7 @@ function CardDeals({
       <figure className="relative">
         {image ? (
           <Image
-            src={image}
+            src={ '${process.env.NEXT_PUBLIC_STORAGE_BASE_URL}/${image}' }
             alt={title}
             height={0}
             width={0}
