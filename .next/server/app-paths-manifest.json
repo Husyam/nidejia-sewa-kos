@@ -1,5 +1,8 @@
 {
   "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
-  "/(root)/page": "app/(root)/page.js",
-  "/(root)/listing/[id]/page": "app/(root)/listing/[id]/page.js"
+  "/(root)/listing/[id]/checkout/page": "app/(root)/listing/[id]/checkout/page.js",
+  "/(root)/booking-success/[id]/success/page": "app/(root)/booking-success/[id]/success/page.js",
+  "/(admin)/dashboard/overview/page": "app/(admin)/dashboard/overview/page.js",
+  "/(admin)/dashboard/my-transactions/page": "app/(admin)/dashboard/my-transactions/page.js",
+  "/(admin)/dashboard/my-listings/page": "app/(admin)/dashboard/my-listings/page.js"
 }

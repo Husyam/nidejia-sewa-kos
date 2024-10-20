@@ -373,6 +373,16 @@ eval("\nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));
 
 /***/ }),
 
+/***/ "(rsc)/./node_modules/next/font/google/target.css?{\"path\":\"src/app/(admin)/layout.tsx\",\"import\":\"Poppins\",\"arguments\":[{\"weight\":[\"100\",\"200\",\"300\",\"400\",\"500\",\"600\",\"700\",\"800\",\"900\"],\"subsets\":[\"latin\"]}],\"variableName\":\"poppins\"}":
+/*!*****************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/font/google/target.css?{"path":"src/app/(admin)/layout.tsx","import":"Poppins","arguments":[{"weight":["100","200","300","400","500","600","700","800","900"],"subsets":["latin"]}],"variableName":"poppins"} ***!
+  \*****************************************************************************************************************************************************************************************************************************************/
+/***/ ((module) => {
+
+eval("// Exports\nmodule.exports = {\n\t\"style\": {\"fontFamily\":\"'__Poppins_e16692', '__Poppins_Fallback_e16692'\",\"fontStyle\":\"normal\"},\n\t\"className\": \"__className_e16692\"\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9ub2RlX21vZHVsZXMvbmV4dC9mb250L2dvb2dsZS90YXJnZXQuY3NzP3tcInBhdGhcIjpcInNyYy9hcHAvKGFkbWluKS9sYXlvdXQudHN4XCIsXCJpbXBvcnRcIjpcIlBvcHBpbnNcIixcImFyZ3VtZW50c1wiOlt7XCJ3ZWlnaHRcIjpbXCIxMDBcIixcIjIwMFwiLFwiMzAwXCIsXCI0MDBcIixcIjUwMFwiLFwiNjAwXCIsXCI3MDBcIixcIjgwMFwiLFwiOTAwXCJdLFwic3Vic2V0c1wiOltcImxhdGluXCJdfV0sXCJ2YXJpYWJsZU5hbWVcIjpcInBvcHBpbnNcIn0iLCJtYXBwaW5ncyI6IkFBQUE7QUFDQTtBQUNBLFdBQVcsb0ZBQW9GO0FBQy9GO0FBQ0EiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9uaWRlamlhLXByb3RvdHlwZS8uL25vZGVfbW9kdWxlcy9uZXh0L2ZvbnQvZ29vZ2xlL3RhcmdldC5jc3M/MTAyNSJdLCJzb3VyY2VzQ29udGVudCI6WyIvLyBFeHBvcnRzXG5tb2R1bGUuZXhwb3J0cyA9IHtcblx0XCJzdHlsZVwiOiB7XCJmb250RmFtaWx5XCI6XCInX19Qb3BwaW5zX2UxNjY5MicsICdfX1BvcHBpbnNfRmFsbGJhY2tfZTE2NjkyJ1wiLFwiZm9udFN0eWxlXCI6XCJub3JtYWxcIn0sXG5cdFwiY2xhc3NOYW1lXCI6IFwiX19jbGFzc05hbWVfZTE2NjkyXCJcbn07XG4iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(rsc)/./node_modules/next/font/google/target.css?{\"path\":\"src/app/(admin)/layout.tsx\",\"import\":\"Poppins\",\"arguments\":[{\"weight\":[\"100\",\"200\",\"300\",\"400\",\"500\",\"600\",\"700\",\"800\",\"900\"],\"subsets\":[\"latin\"]}],\"variableName\":\"poppins\"}\n");
+
+/***/ }),
+
 /***/ "(rsc)/./node_modules/next/font/google/target.css?{\"path\":\"src/app/(root)/layout.tsx\",\"import\":\"Poppins\",\"arguments\":[{\"weight\":[\"100\",\"200\",\"300\",\"400\",\"500\",\"600\",\"700\",\"800\",\"900\"],\"subsets\":[\"latin\"]}],\"variableName\":\"poppins\"}":
 /*!****************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/next/font/google/target.css?{"path":"src/app/(root)/layout.tsx","import":"Poppins","arguments":[{"weight":["100","200","300","400","500","600","700","800","900"],"subsets":["latin"]}],"variableName":"poppins"} ***!
